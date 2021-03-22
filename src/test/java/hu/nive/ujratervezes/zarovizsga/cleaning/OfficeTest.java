@@ -1,4 +1,4 @@
-package hu.nive.ujratervezes.zarovizsga.cleaning;
+ package hu.nive.ujratervezes.zarovizsga.cleaning;
 
 import org.junit.jupiter.api.Test;
 
@@ -18,3 +18,4 @@ class OfficeTest {
         assertEquals(150_000, office.clean());
     }
 }
+
